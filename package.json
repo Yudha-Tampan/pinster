@@ -1,8 +1,9 @@
 {
   "name": "pinster",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "vercel-build": "echo 'Building Pinster...' && ls -la",
+    "vercel-build": "echo 'Building Pinster...'",
     "start": "echo 'Server started'"
   },
   "dependencies": {
