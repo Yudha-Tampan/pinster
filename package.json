@@ -1,11 +1,8 @@
 {
-  "name": "pinterest-clone",
+  "name": "pinster",
   "version": "1.0.0",
-  "description": "Pinterest clone with Supabase backend",
-  "main": "index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "deploy": "vercel --prod"
+    "vercel-build": "echo 'Vercel build complete'"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
